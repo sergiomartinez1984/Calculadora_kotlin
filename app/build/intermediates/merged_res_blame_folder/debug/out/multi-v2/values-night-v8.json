@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\LosGamers04\\Desktop\\CalculadoraKotlin-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\LosGamers04\\AndroidStudioProjects\\Desarrollo de Interfaces\\Calculadora_Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\LosGamers04\\Desktop\\CalculadoraKotlin-master\\app\\src\\main\\res\\values-night\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "820"
-                    },
-                    "to": {
-                        "startLines": "9",
-                        "startColumns": "4",
-                        "startOffsets": "732",
-                        "endLines": "21",
-                        "endColumns": "12",
-                        "endOffsets": "1450"
-                    }
-                },
                 {
                     "source": "C:\\Users\\LosGamers04\\.gradle\\caches\\transforms-3\\5a3e51d9d3bf13afa5f76faada65dc67\\transformed\\material-1.4.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
@@ -37,6 +18,25 @@
                         "startOffsets": "1455,1543,1667,1769,1871,1987,2089,2203,2331,2447,2569,2705,2825,2959,3079,3191,3406,3530,3660,3782,3920,4054,4170",
                         "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,123,129,121,137,133,115,119",
                         "endOffsets": "1538,1662,1764,1866,1982,2084,2198,2326,2442,2564,2700,2820,2954,3074,3186,3312,3525,3655,3777,3915,4049,4165,4285"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\LosGamers04\\AndroidStudioProjects\\Desarrollo de Interfaces\\Calculadora_Kotlin\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "820"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "732",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1450"
                     }
                 },
                 {

@@ -113,7 +113,7 @@
                 android:text="E"
                 android:textColor="#FBF9F9"
                 android:textSize="20sp"
-                app:backgroundTint="#FF9800"
+                app:backgroundTint="#B6B5B3"
                 app:cornerRadius="20dp" />
 
             <Button
@@ -127,7 +127,7 @@
                 android:text="F"
                 android:textColor="#FBF9F9"
                 android:textSize="20sp"
-                app:backgroundTint="#FF9800"
+                app:backgroundTint="#B6B5B3"
                 app:cornerRadius="20dp" />
         </TableRow>
 
@@ -473,7 +473,7 @@
                 android:layout_weight="1"
                 android:background="#FF9800"
                 android:backgroundTint="#ff8896"
-                android:text="@string/limpiar"
+                android:text="C"
                 android:textColor="#FBF9F9"
                 android:textSize="20sp"
                 app:backgroundTint="#FF9800"

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:2:1-24:12
 MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\LosGamers04\.gradle\caches\transforms-3\af088129b264e38e18a4c824e5932518\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\LosGamers04\.gradle\caches\transforms-3\5a3e51d9d3bf13afa5f76faada65dc67\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\LosGamers04\.gradle\caches\transforms-3\c757cf49be54a9c3d3185c7a89d6de81\transformed\constraintlayout-2.1.0\AndroidManifest.xml:2:1-11:12
@@ -40,25 +40,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LosGamers04\.gra
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LosGamers04\.gradle\caches\transforms-3\fc223a4f452dd0520fd8cf69f3c61aaa\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\LosGamers04\.gradle\caches\transforms-3\64b40f86ad418a55531931148e4a58e7\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\LosGamers04\.gradle\caches\transforms-3\efb5ab150b0e2afb73890aef5887c8ac\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:3:5-38
-		INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:5:5-22:19
+ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:5:5-22:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\LosGamers04\.gradle\caches\transforms-3\5a3e51d9d3bf13afa5f76faada65dc67\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\LosGamers04\.gradle\caches\transforms-3\5a3e51d9d3bf13afa5f76faada65dc67\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\LosGamers04\.gradle\caches\transforms-3\c757cf49be54a9c3d3185c7a89d6de81\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
@@ -70,37 +70,37 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Lo
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] C:\Users\LosGamers04\.gradle\caches\transforms-3\348f6d52d990d4fb4fcc5abc17a1cdcd\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:11:9-49
+		ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:11:9-49
 activity#com.example.calculadora.MainActivity
-ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:12:9-20:20
+ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:12:9-20:20
 	android:exported
-		ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:14:13-36
+		ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:13:13-41
+		ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:13:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml
 MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\LosGamers04\.gradle\caches\transforms-3\af088129b264e38e18a4c824e5932518\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\LosGamers04\.gradle\caches\transforms-3\af088129b264e38e18a4c824e5932518\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\LosGamers04\.gradle\caches\transforms-3\5a3e51d9d3bf13afa5f76faada65dc67\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
@@ -173,13 +173,13 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\LosGamers04\.gradle\caches\tra
 MERGED from [androidx.print:print:1.0.0] C:\Users\LosGamers04\.gradle\caches\transforms-3\64b40f86ad418a55531931148e4a58e7\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\LosGamers04\.gradle\caches\transforms-3\efb5ab150b0e2afb73890aef5887c8ac\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\LosGamers04\.gradle\caches\transforms-3\efb5ab150b0e2afb73890aef5887c8ac\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\LosGamers04\Desktop\CalculadoraKotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LosGamers04\AndroidStudioProjects\Desarrollo de Interfaces\Calculadora_Kotlin\app\src\main\AndroidManifest.xml

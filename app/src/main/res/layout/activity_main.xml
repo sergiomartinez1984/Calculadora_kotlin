@@ -14,9 +14,9 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="32dp"
         android:layout_marginEnd="32dp"
-        android:background="@color/white"
+        android:background="#FFEB3B"
         android:textAlignment="viewEnd"
-        android:textColor="#000000"
+        android:textColor="#E60707"
         android:textColorHint="#FFFFFF"
         android:textSize="48sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -50,7 +50,7 @@
                 android:text="1"
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:backgroundTint="@android:color/darker_gray"
+                app:backgroundTint="#20AA25"
                 app:cornerRadius="20dp" />
 
             <Button
@@ -64,7 +64,7 @@
                 android:text="2"
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:backgroundTint="@android:color/darker_gray"
+                app:backgroundTint="#20AA25"
                 app:cornerRadius="20dp" />
 
             <Button
@@ -78,7 +78,7 @@
                 android:text="3"
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:backgroundTint="@android:color/darker_gray"
+                app:backgroundTint="#20AA25"
                 app:cornerRadius="20dp" />
 
             <Button
@@ -92,7 +92,7 @@
                 android:text="+"
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:backgroundTint="#FF9800"
+                app:backgroundTint="#20AA25"
                 app:cornerRadius="20dp" />
 
         </TableRow>
@@ -113,7 +113,7 @@
                 android:text="4"
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:backgroundTint="@color/cardview_dark_background"
+                app:backgroundTint="#2196F3"
                 app:cornerRadius="20dp" />
 
             <Button
@@ -127,7 +127,7 @@
                 android:text="5"
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:backgroundTint="@color/cardview_dark_background"
+                app:backgroundTint="#2196F3"
                 app:cornerRadius="20dp" />
 
             <Button
@@ -141,7 +141,7 @@
                 android:text="6"
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:backgroundTint="@color/cardview_dark_background"
+                app:backgroundTint="#2196F3"
                 app:cornerRadius="20dp" />
 
             <Button
@@ -155,7 +155,7 @@
                 android:text="-"
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:backgroundTint="#FF9800"
+                app:backgroundTint="#2196F3"
                 app:cornerRadius="20dp" />
 
         </TableRow>
@@ -175,7 +175,7 @@
                 android:text="7"
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:backgroundTint="@color/cardview_dark_background"
+                app:backgroundTint="#2196F3"
                 app:cornerRadius="20dp" />
 
             <Button
@@ -189,7 +189,7 @@
                 android:text="8"
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:backgroundTint="@color/cardview_dark_background"
+                app:backgroundTint="#2196F3"
                 app:cornerRadius="20dp" />
 
             <Button
@@ -203,7 +203,7 @@
                 android:text="9"
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:backgroundTint="@color/cardview_dark_background"
+                app:backgroundTint="#2196F3"
                 app:cornerRadius="20dp" />
 
             <Button
@@ -217,7 +217,7 @@
                 android:text="x"
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:backgroundTint="#FF9800"
+                app:backgroundTint="#2196F3"
                 app:cornerRadius="20dp" />
 
         </TableRow>
@@ -237,7 +237,7 @@
                 android:text="."
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:backgroundTint="@color/cardview_dark_background"
+                app:backgroundTint="#2196F3"
                 app:cornerRadius="20dp" />
 
             <Button
@@ -251,7 +251,7 @@
                 android:text="0"
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:backgroundTint="@color/cardview_dark_background"
+                app:backgroundTint="#2196F3"
                 app:cornerRadius="20dp" />
 
             <Button
@@ -265,7 +265,7 @@
                 android:text="="
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:backgroundTint="@color/cardview_dark_background"
+                app:backgroundTint="#2196F3"
                 app:cornerRadius="20dp" />
 
             <Button
@@ -279,7 +279,7 @@
                 android:text="/"
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:backgroundTint="#FF9800"
+                app:backgroundTint="#2196F3"
                 app:cornerRadius="20dp" />
 
         </TableRow>
@@ -298,7 +298,7 @@
                 android:text="@string/borrar"
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:backgroundTint="@android:color/holo_orange_dark" />
+                app:backgroundTint="#9C27B0" />
         </TableRow>
 
         <TableRow
@@ -316,7 +316,7 @@
                 android:text="C"
                 android:textColor="@color/white"
                 android:textSize="20sp"
-                app:backgroundTint="#FF9800"
+                app:backgroundTint="#9C27B0"
                 app:cornerRadius="20dp" />
         </TableRow>
 

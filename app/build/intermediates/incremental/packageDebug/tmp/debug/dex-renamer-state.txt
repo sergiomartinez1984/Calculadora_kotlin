@@ -1,4 +1,4 @@
-#Tue Oct 19 16:25:01 CEST 2021
+#Thu Oct 21 13:23:45 CEST 2021
 base.2=C\:\\Users\\LosGamers04\\AndroidStudioProjects\\Desarrollo de Interfaces\\Calculadora_Kotlin\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
 path.2=8/classes.dex
 base.1=C\:\\Users\\LosGamers04\\AndroidStudioProjects\\Desarrollo de Interfaces\\Calculadora_Kotlin\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
